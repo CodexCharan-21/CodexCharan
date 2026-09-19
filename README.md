@@ -66,7 +66,7 @@ My long-term goal is to build strong foundations across **communication engineer
 <img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
 </p>
 
-`C` `C++` `Python` `Bash`
+`C`  `Python`
 
 ### 📡 Communication & Signal Processing
 
@@ -221,7 +221,7 @@ I'm currently building my foundation toward **Communication Engineering and VLSI
 
 * MATLAB
 * Simulink
-* C/C++
+* C
 * Python
 * Linux
 * Git & GitHub
@@ -257,38 +257,6 @@ My goal is to take an engineering concept from **theory → simulation → imple
 * [ ] Build a strong engineering portfolio before graduation
 * [ ] Explore opportunities in Communication and VLSI
 
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CodexCharan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexCharan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodexCharan&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodexCharan&theme=tokyo-night" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodexCharan&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
 
 ---
 
