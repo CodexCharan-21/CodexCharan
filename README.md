@@ -63,7 +63,7 @@ My long-term goal is to build strong foundations across **communication engineer
 ### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
+<img src="https://skillicons.dev/icons?i=c,python" />
 </p>
 
 `C`  `Python`
@@ -92,7 +92,7 @@ My long-term goal is to build strong foundations across **communication engineer
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode" />
 </p>
 
-`Linux` `Ubuntu` `Git` `GitHub` `GDB` `Make`
+`Linux` `Ubuntu` `Git` `GitHub`
 
 ### 🔧 Embedded & System-Level Technologies
 
